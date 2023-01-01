@@ -1,0 +1,160 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: antiquewhite;
+}
+
+.header-title, .container > h2 {
+    text-align: center;
+}
+
+.color-container {
+    width: 100%;
+}
+
+div {
+    display: block;
+}
+
+.container {
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 10px;
+    background-color: white;
+}
+
+.color-panel {
+    border: 1px solid black;
+    display: inline-block;
+    width: 19.25%;
+    min-height: 100px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.color-description {
+    font-size: 12px;
+}
+
+.font-container {
+    width: 100%;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 19.25%;
+    min-height: 100px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.burlywood {
+    background-color: #DEB887;
+    color: black;
+}
+
+.honeydew {
+    background-color: #F0FFF0;
+    color: black;
+}
+
+.silver {
+    background-color: #C0C0C0;
+    color: black;
+}
+
+.springgreen {
+    background-color: #00FF7F;
+    color: black;
+}
+
+.steelblue {
+    background-color: #4682B4;
+    color: black;
+}
+
+.salmon {
+    background-color: #FA8072;
+    color: black;
+}
+
+.hotpink {
+    background-color: #FF69B4;
+    color: black;
+}
+
+.orangered {
+    background-color: #FF4500;
+    color: white;
+}
+
+.gold {
+    background-color: #FFD700;
+    color: black;
+}
+
+.darkmagenta {
+    background-color: #8B008B;
+    color: white;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.sevillana {
+    font-family: 'Sevillana', cursive;
+}
+
+.kanit {
+    font-family: 'Kanit', sans-serif;
+}
+
+.yanone-kaffeesatz {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+.text-panel {
+    display: inline-block;
+    width: 32%;
+    margin: 20px auto;
+}
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Sevillana', cursive;
+}
